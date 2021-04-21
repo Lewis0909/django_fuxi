@@ -36,4 +36,6 @@ urlpatterns = [
 
     # 类视图函数url
     url(r'^center/$',CenterView.as_view())
+
+    # 这是经理的代码
 ]
