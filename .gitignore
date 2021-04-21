@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 忽略xml和iml文件
+*.xml
+*.iml
