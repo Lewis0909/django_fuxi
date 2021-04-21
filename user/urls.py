@@ -38,4 +38,6 @@ urlpatterns = [
     url(r'^center/$',CenterView.as_view())
 
     # 这是经理的代码
+
+    # 这是张三的代码
 ]
