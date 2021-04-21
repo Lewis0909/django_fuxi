@@ -130,4 +130,8 @@ dmypy.json
 
 # 忽略xml和iml文件
 *.xml
+<<<<<<< HEAD
 *.iml
+=======
+*.iml
+>>>>>>> 8fe39eeec1f9384830205cfd6212a6f19363ffdd
